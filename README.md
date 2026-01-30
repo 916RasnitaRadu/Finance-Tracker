@@ -72,5 +72,5 @@ previously saved in the database.
 
 Preview of the application:
 
-![Main Screen Preview](Project\ idea/ExpenseApp\ -\ Main.jpg)
+![Main Screen Preview](Project%20idea/ExpenseApp%20-%20Main.jpg)
 
