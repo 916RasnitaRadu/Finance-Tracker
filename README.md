@@ -74,3 +74,7 @@ Preview of the application:
 
 ![Main Screen Preview](Project%20idea/ExpenseApp%20-%20Main.jpg)
 
+![Add Screen Preview](Project%20idea/ExpenseApp%20-%20Add.jpg)
+
+![Delete Modal Preview](Project%20idea/ExpenseApp%20-%20Delete.jpg)
+
