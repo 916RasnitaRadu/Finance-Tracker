@@ -67,3 +67,10 @@ When the application is used offline, all the operations performed store the inf
  
 - As long as there is no internet connection, the notes are available only with the properties
 previously saved in the database.
+
+---
+
+Preview of the application:
+
+![Main Screen Preview](Project\ idea/ExpenseApp\ -\ Main.jpg)
+
